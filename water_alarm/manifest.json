@@ -1,0 +1,11 @@
+{
+    "name": "Water Alarm",
+    "version": "1.0.0",
+    "description": "water drinking alarm for better health",
+    "manifest_version": 3,
+    "author": "harjeet pal",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Water Alarm"
+    }
+}

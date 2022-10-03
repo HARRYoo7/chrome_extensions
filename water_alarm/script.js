@@ -13,7 +13,7 @@ function alertMessage(){
 function startTimer(){
 	if(!intervalTimer){
 		console.log("water alarm started")
-		intervalTimer = setInterval(alertMessage, 60000);
+		intervalTimer = setInterval(alertMessage, 3600000);
 	}
 }
 
